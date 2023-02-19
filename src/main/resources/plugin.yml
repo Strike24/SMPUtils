@@ -1,0 +1,8 @@
+name: SMPUtils
+version: '${project.version}'
+main: ml.itsstrike.smputils.SMPUtils
+api-version: 1.19
+prefix: SMPUtils
+authors: [ Strike ]
+description: SMPUtils will help you manage your SMP better, with great tools and features!
+website: https://strke.ml
